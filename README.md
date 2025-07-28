@@ -22,7 +22,7 @@ Game Mechanics :
 
 Technologies Used
 
-* Java SE
+* Java 
 * Swing (for GUI)
 * OOP concepts: Classes, Objects, Inheritance, Encapsulation
 * Event handling using KeyListener and ActionListener
