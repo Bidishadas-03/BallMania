@@ -1,5 +1,5 @@
 # BallMania
-Brick Breaker Game – Java Swing Project
+A Java Project
 
 About the Project :
 
